@@ -1,4 +1,4 @@
-class QrencodeAT3 < Formula
+class Qrencode < Formula
   desc "QR Code generation"
   homepage "https://fukuchi.org/works/qrencode/index.html.en"
   url "https://fukuchi.org/works/qrencode/qrencode-3.4.4.tar.gz"
